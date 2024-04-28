@@ -39,23 +39,6 @@ Technologies Used
 - React Router (for routing)
 - CSS (for styling)
 
-Folder Stucture
-
-pokeapi-app/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ ├── HomePage.jsx
-│ │ ├── PokemonCard.jsx
-│ │ ├── DetailsPage.jsx
-│ │ └── App.js
-│ ├── App.css
-│ ├── index.js
-├── package.json
-├── README.md
-└── ...
-
 Here is deployed link
 
 - https://pokemon-app-dun-six.vercel.app/
