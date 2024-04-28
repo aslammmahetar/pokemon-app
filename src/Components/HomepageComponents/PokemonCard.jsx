@@ -12,7 +12,7 @@ const PokemonCard = ({
     <div className={styles.displaySection}>
       <div>
         {!selectedPokemon ? (
-          <h1>Please Choose a Pokemon</h1>
+          <h1>Please Search a Pokemon</h1>
         ) : isLoading ? (
           <h1>Loading...</h1>
         ) : foundPokemon === false ? (
