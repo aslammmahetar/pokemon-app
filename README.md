@@ -1,11 +1,10 @@
-# PokeAPI Web Application
+# Pokemon-app Web Application
 
 This web application is built using React and integrates with the PokeAPI (https://pokeapi.co/) to provide information about Pokemon.
 
 ## Features
 
 - **Homepage**: Includes a search bar and a random Pokemon card that changes daily.
-- **Search Results Page**: Displays a list of Pokemon based on user search queries.
 - **Details Page**: Shows detailed information about a selected Pokemon.
 
 ## Installation
@@ -56,3 +55,7 @@ pokeapi-app/
 ├── package.json
 ├── README.md
 └── ...
+
+Here is deployed link
+
+- https://pokemon-app-dun-six.vercel.app/
